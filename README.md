@@ -1,2 +1,2 @@
 # bio-log
-qu ⠶ reed ⠶ [bio](https://github.com/qu-reeds/bio-log/wiki/)
+qu ⠶ reed ⠶ log ⠶ [bio](https://github.com/qu-reeds/bio-log/wiki/)
